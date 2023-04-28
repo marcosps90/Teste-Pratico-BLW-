@@ -31,7 +31,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <button type="button">Voltar</button></a>
 	<footer>
 		<p>Feito por Marcos Vinicios Gomes Andrade </p>
-    	<p>dia 27/04/2023</p>
 		<p>Email para contato: marcosps455@gmail.com</p>
 
 	</footer>
