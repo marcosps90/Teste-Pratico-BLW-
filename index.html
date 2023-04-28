@@ -16,15 +16,15 @@
     <form id="formulario" action="processa.php" method="POST" enctype="multipart/form-data">
 			<div>
 				<label for="nome">Nome:</label>
-				<input type="text" id="nome" name="nome" required>
+				<input type="text" maxlength="100" id="nome" name="nome" required>
 			</div>
 			<div>
 				<label for="email">E-mail:</label>
-				<input type="email" id="email" name="email" required>
+				<input type="email" maxlength="100" id="email" name="email" required>
 			</div>
 			<div>
 				<label for="mensagem">Mensagem:</label>
-				<textarea id="mensagem" name="mensagem" required></textarea>
+				<textarea id="mensagem" maxlength="300"name="mensagem" required></textarea>
 			</div>
 			<div>
 				<label for="anexo">Anexo:</label>
@@ -35,7 +35,5 @@
 	</main>
 	<footer>
 		<p>Feito por Marcos Vinicios Gomes Andrade </p>
-    	<p>dia 27/04/2023</p>
 		<p>Email para contato: marcosps455@gmail.com</p>
-
 	</footer>
