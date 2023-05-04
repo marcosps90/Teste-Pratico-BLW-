@@ -1,4 +1,19 @@
-# Teste pratico para a BLW Construtora
+# Teste pratico 
+esse projeto foi feito para um processo seletivo da empresa BLW Construtora
+O teste prático é para entendermos o seu nível técnico em lógica de programação. Então vamos lá:
+
+Crie uma página em HTML com cabeçalho, corpo e rodapé e estilize-a com CSS. Use cores simples, mas que dêem destaque ao cabeçalho e ao rodapé. Lembre-se de ficar atento ao contraste das cores de fundo e do texto;
+No corpo da página, crie um formulário com quatro campos:
+Nome (obrigatório);
+E-mail (obrigatório);
+Mensagem (obrigatório);
+Anexo (opcional);
+Valide os campos obrigatórios com javascript puro ou com a biblioteca jQuery, de acordo com a sua preferência;
+Receba os dados do formulário em uma página em PHP e exiba-os na tela. No caso do anexo, exiba o nome do arquivo com o link para abri-lo.
+isso foi oque foi pedido
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 Como rodar o projeto:
 
 * Instale o Wamp server ou outro servidor apache (lembre de usar um que tambem seja compativel com o php).
@@ -16,15 +31,4 @@ Como rodar o projeto:
 *selecione o projeto e pronto
  
  
-esse projeto foi feito para um processo seletivo da empresa BLW Construtora
-O teste prático é para entendermos o seu nível técnico em lógica de programação. Então vamos lá:
 
-Crie uma página em HTML com cabeçalho, corpo e rodapé e estilize-a com CSS. Use cores simples, mas que dêem destaque ao cabeçalho e ao rodapé. Lembre-se de ficar atento ao contraste das cores de fundo e do texto;
-No corpo da página, crie um formulário com quatro campos:
-Nome (obrigatório);
-E-mail (obrigatório);
-Mensagem (obrigatório);
-Anexo (opcional);
-Valide os campos obrigatórios com javascript puro ou com a biblioteca jQuery, de acordo com a sua preferência;
-Receba os dados do formulário em uma página em PHP e exiba-os na tela. No caso do anexo, exiba o nome do arquivo com o link para abri-lo.
-isso foi oque foi pedido
