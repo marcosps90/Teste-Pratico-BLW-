@@ -11,7 +11,7 @@ Anexo (opcional);
 Valide os campos obrigatórios com javascript puro ou com a biblioteca jQuery, de acordo com a sua preferência;
 Receba os dados do formulário em uma página em PHP e exiba-os na tela. No caso do anexo, exiba o nome do arquivo com o link para abri-lo.
 isso foi oque foi pedido
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Como rodar o projeto:
